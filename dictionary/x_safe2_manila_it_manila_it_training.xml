@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Manila IT Training" max_length="40" name="x_safe2_manila_it_manila_it_training" type="collection">
+        <element label="Active" mandatory="true" max_length="40" name="active" type="boolean"/>
+        <element label="Additional Comments" max_length="4000" name="additional_comments" type="journal"/>
+        <element choice="1" label="Bond" mandatory="true" max_length="40" name="bond" type="choice">
+            <choice>
+                <element label="No" value="No"/>
+                <element label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="LDC Training available" mandatory="true" max_length="40" name="ldc_training_available" type="choice">
+            <choice>
+                <element label="No" value="No"/>
+                <element label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="LDC Training Link" max_length="1024" name="ldc_training_link" type="url"/>
+        <element label="Number of pax per course" mandatory="true" max_length="40" name="number_of_pax_per_course" type="integer"/>
+        <element label="Pre Requisites" max_length="1000" name="pre_requisites" type="journal"/>
+        <element label="Training Address or Venue" max_length="1000" name="training_address" type="string"/>
+        <element choice="1" label="Training Duration" mandatory="true" max_length="40" name="training_duration" type="choice">
+            <choice>
+                <element label="1 Day" value="1 Day"/>
+                <element label="2 Days" value="2 Days"/>
+                <element label="3 Days" value="3 Days"/>
+                <element label="4 Days" value="4 Days"/>
+                <element label="5 Days" value="5 Days"/>
+                <element label="More than 5 Days" value="More than 5 Days"/>
+            </choice>
+        </element>
+        <element label="Training End Date" mandatory="true" max_length="40" name="training_end_date" type="glide_date"/>
+        <element label="Training Expense" mandatory="true" max_length="20" name="training_expense" type="decimal"/>
+        <element choice="1" label="Training Location" mandatory="true" max_length="40" name="training_location" type="choice">
+            <choice>
+                <element label="Offsite" value="Offsite"/>
+                <element label="Onsite" value="Onsite"/>
+            </choice>
+        </element>
+        <element label="Course Title" mandatory="true" max_length="200" name="training_name" type="string"/>
+        <element label="Training Start Date" mandatory="true" max_length="40" name="training_start_date" type="glide_date"/>
+        <element choice="1" label="Training Travel" mandatory="true" max_length="40" name="training_travel" type="choice">
+            <choice>
+                <element label="No" value="No"/>
+                <element label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Travel Expense" mandatory="true" max_length="20" name="travel_expense" type="decimal"/>
+        <element label="Training Partner or Vendor" max_length="32" name="vendor" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="vendor"/>
+        </index>
+    </element>
+</database>

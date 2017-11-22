@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="training_travel" table="x_safe2_manila_it_manila_it_training" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_travel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_safe2_manila_it_manila_it_training</name>
+            <sequence/>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 01:05:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>70b8d6c2dbe2c3003217f3861d96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 01:05:54</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_travel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_safe2_manila_it_manila_it_training</name>
+            <sequence/>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 01:05:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6da81ac2dbe2c3003217f3861d96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 01:05:46</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>training_travel</element>
+            <name>x_safe2_manila_it_manila_it_training</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 01:05:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>88b85282dbe2c3003217f3861d961907</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>training_travel</sys_name>
+            <sys_package display_value="Manila IT Training" source="x_safe2_manila_it">90ddc646dba2c3003217f3861d9619d5</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Manila IT Training">90ddc646dba2c3003217f3861d9619d5</sys_scope>
+            <sys_update_name>sys_choice_x_safe2_manila_it_manila_it_training_training_travel</sys_update_name>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 01:05:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

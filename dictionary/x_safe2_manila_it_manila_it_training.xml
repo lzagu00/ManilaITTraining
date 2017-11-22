@@ -17,7 +17,7 @@
         </element>
         <element label="LDC Training Link" max_length="1024" name="ldc_training_link" type="url"/>
         <element label="Number of pax per course" mandatory="true" max_length="40" name="number_of_pax_per_course" type="integer"/>
-        <element label="Pre Requisites" max_length="1000" name="pre_requisites" type="journal"/>
+        <element label="Pre Requisites" max_length="1000" name="pre_requisites" type="html"/>
         <element label="Training Address or Venue" max_length="1000" name="training_address" type="string"/>
         <element choice="1" label="Training Duration" mandatory="true" max_length="40" name="training_duration" type="choice">
             <choice>

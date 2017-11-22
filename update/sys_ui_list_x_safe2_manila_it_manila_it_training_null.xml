@@ -3,63 +3,123 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_safe2_manila_it_manila_it_training" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>bond</element>
-            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3641de4adba2c3003217f3861d961911</list_id>
+            <element>training_name</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>LZAGU00.sa</sys_created_by>
-            <sys_created_on>2017-11-22 00:33:27</sys_created_on>
-            <sys_id>be41de4adba2c3003217f3861d961911</sys_id>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>4051764adb26c3003217f3861d961978</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LZAGU00.sa</sys_updated_by>
-            <sys_updated_on>2017-11-22 00:33:27</sys_updated_on>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>training_duration</element>
-            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3641de4adba2c3003217f3861d961911</list_id>
+            <element>active</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>LZAGU00.sa</sys_created_by>
-            <sys_created_on>2017-11-22 00:33:27</sys_created_on>
-            <sys_id>3641de4adba2c3003217f3861d961912</sys_id>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>c451764adb26c3003217f3861d961978</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LZAGU00.sa</sys_updated_by>
-            <sys_updated_on>2017-11-22 00:33:27</sys_updated_on>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>training_expense</element>
-            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3641de4adba2c3003217f3861d961911</list_id>
+            <element>training_duration</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>LZAGU00.sa</sys_created_by>
-            <sys_created_on>2017-11-22 00:33:27</sys_created_on>
-            <sys_id>b641de4adba2c3003217f3861d961912</sys_id>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>4851764adb26c3003217f3861d961978</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LZAGU00.sa</sys_updated_by>
-            <sys_updated_on>2017-11-22 00:33:27</sys_updated_on>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>training_name</element>
-            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3641de4adba2c3003217f3861d961911</list_id>
+            <element>bond</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>LZAGU00.sa</sys_created_by>
-            <sys_created_on>2017-11-22 00:33:27</sys_created_on>
-            <sys_id>3a41de4adba2c3003217f3861d961912</sys_id>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>c851764adb26c3003217f3861d961978</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>LZAGU00.sa</sys_updated_by>
-            <sys_updated_on>2017-11-22 00:33:27</sys_updated_on>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number_of_pax_per_course</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>4c51764adb26c3003217f3861d961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>training_expense</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>cc51764adb26c3003217f3861d961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pre_requisites</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>4051764adb26c3003217f3861d961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>additional_comments</element>
+            <list_id display_value="x_safe2_manila_it_manila_it_training" element="NULL" name="x_safe2_manila_it_manila_it_training" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c451764adb26c3003217f3861d961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>LZAGU00.sa</sys_created_by>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
+            <sys_id>c051764adb26c3003217f3861d961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LZAGU00.sa</sys_updated_by>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -73,10 +133,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>LZAGU00.sa</sys_created_by>
-            <sys_created_on>2017-11-22 00:33:27</sys_created_on>
+            <sys_created_on>2017-11-22 02:53:21</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>3641de4adba2c3003217f3861d961911</sys_id>
+            <sys_id>c451764adb26c3003217f3861d961977</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_safe2_manila_it_manila_it_training</sys_name>
             <sys_package display_value="Manila IT Training" source="x_safe2_manila_it">90ddc646dba2c3003217f3861d9619d5</sys_package>
@@ -85,7 +145,7 @@
             <sys_scope display_value="Manila IT Training">90ddc646dba2c3003217f3861d9619d5</sys_scope>
             <sys_update_name>sys_ui_list_x_safe2_manila_it_manila_it_training_null</sys_update_name>
             <sys_updated_by>LZAGU00.sa</sys_updated_by>
-            <sys_updated_on>2017-11-22 00:33:27</sys_updated_on>
+            <sys_updated_on>2017-11-22 02:53:21</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
